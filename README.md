@@ -5,7 +5,7 @@
 - 📫 I hope i can do better.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
 
@@ -83,5 +83,5 @@ Vue                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Asuka24601/Asuka24601/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 18:43:04 UTC
+ Last Updated on 14/01/2023 18:41:07 UTC
 <!--END_SECTION:waka-->
