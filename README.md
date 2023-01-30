@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -80,5 +80,5 @@ Shell                    1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Asuka24601/Asuka24601/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/01/2023 18:40:53 UTC
+ Last Updated on 30/01/2023 18:43:15 UTC
 <!--END_SECTION:waka-->
