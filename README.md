@@ -48,18 +48,16 @@ Sunday                   20 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 mins             █████████████████████░░░░   85.61 % 
-JavaScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          7 mins              ████████████████░░░░░░░░░   64.96 % 
-logs                     4 mins              █████████░░░░░░░░░░░░░░░░   35.04 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -79,5 +77,5 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Asuka24601/Asuka24601/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2023 18:38:43 UTC
+ Last Updated on 22/04/2023 18:38:15 UTC
 <!--END_SECTION:waka-->
