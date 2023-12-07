@@ -5,6 +5,8 @@
 - 📫 I hope i can do better.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%2026%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -19,6 +21,45 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+🌆 Daytime                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+🌃 Evening                51 commits          ██████████░░░░░░░░░░░░░░░   40.16 % 
+🌙 Night                  50 commits          ██████████░░░░░░░░░░░░░░░   39.37 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   31 commits          ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Wednesday                23 commits          █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Thursday                 18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Saturday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Sunday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -36,5 +77,5 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Asuka24601/Asuka24601/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2023 18:39:33 UTC
+ Last Updated on 07/12/2023 18:39:46 UTC
 <!--END_SECTION:waka-->
