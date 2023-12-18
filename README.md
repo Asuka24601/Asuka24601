@@ -5,7 +5,7 @@
 - 📫 I hope i can do better.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -48,16 +48,21 @@ Sunday                   25 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      13 mins             ███████████████░░░░░░░░░░   61.03 % 
+Other                    8 mins              █████████░░░░░░░░░░░░░░░░   36.30 % 
+Git                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            12 mins             ██████████████░░░░░░░░░░░   56.44 % 
+VS Code                  9 mins              ███████████░░░░░░░░░░░░░░   43.56 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FaceAnalyze              12 mins             ██████████████░░░░░░░░░░░   56.44 % 
+test                     8 mins              ██████████░░░░░░░░░░░░░░░   38.97 % 
+Search                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,5 +82,5 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Asuka24601/Asuka24601/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2023 18:38:26 UTC
+ Last Updated on 18/12/2023 18:40:00 UTC
 <!--END_SECTION:waka-->
