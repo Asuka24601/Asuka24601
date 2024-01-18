@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Rust and JavaScript，C++ and Python are the languages I use most often.
 - 💞️ I’m a light video gamer and serious sci-fi fan.
 - 📫 I hope i can do better.
+- 😅 sorry about i do not have project can public.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2023%20mins-blue)
