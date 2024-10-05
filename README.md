@@ -14,8 +14,6 @@
 
 > 📦 154.8 kB Used in GitHub's Storage 
  > 
-> 🏆 35 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -49,18 +47,16 @@ Sunday                   29 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               40 mins             ███████████████████░░░░░░   75.56 % 
-Markdown                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          40 mins             ███████████████████░░░░░░   75.56 % 
-blog24                   13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +76,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Asuka24601/Asuka24601/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2024 18:45:05 UTC
+ Last Updated on 05/10/2024 18:42:34 UTC
 <!--END_SECTION:waka-->
