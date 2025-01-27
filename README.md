@@ -14,8 +14,6 @@
 
 > 📦 154.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -78,5 +76,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Asuka24601/Asuka24601/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2025 18:42:31 UTC
+ Last Updated on 27/01/2025 18:44:23 UTC
 <!--END_SECTION:waka-->
