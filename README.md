@@ -6,15 +6,13 @@
 - 😅 sorry about i do not have project can public.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-700%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 154.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,18 +47,19 @@ Sunday                   29 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     6 mins              ████████████████████████░   94.41 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Vue.js                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+SCSS                     3 hrs 29 mins       ████████████████████████░   96.93 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  3 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-client_home              6 mins              █████████████████████████   100.00 % 
+client_home              3 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +79,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Asuka24601/Asuka24601/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2025 18:41:46 UTC
+ Last Updated on 09/02/2025 18:41:45 UTC
 <!--END_SECTION:waka-->
