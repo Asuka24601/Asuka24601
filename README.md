@@ -6,15 +6,13 @@
 - 😅 sorry about i do not have project can public.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-729%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-739%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 154.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,19 +47,19 @@ Sunday                   29 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SCSS                     32 hrs 20 mins      █████████████████████████   99.66 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+SCSS                     41 hrs 39 mins      █████████████████████████   99.74 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  41 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-client_home              32 hrs 27 mins      █████████████████████████   100.00 % 
+client_home              41 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  32 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,5 +79,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Asuka24601/Asuka24601/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 18:45:34 UTC
+ Last Updated on 14/02/2025 18:44:25 UTC
 <!--END_SECTION:waka-->
