@@ -6,13 +6,15 @@
 - 😅 sorry about i do not have project can public.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 154.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,18 +49,18 @@ Sunday                   29 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SCSS                     34 hrs 54 mins      █████████████████████████   99.59 % 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+SCSS                     28 hrs 29 mins      █████████████████████████   99.50 % 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  28 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-client_home              35 hrs 3 mins       █████████████████████████   100.00 % 
+client_home              28 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  35 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  28 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +80,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Asuka24601/Asuka24601/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2025 18:45:20 UTC
+ Last Updated on 19/02/2025 18:45:28 UTC
 <!--END_SECTION:waka-->
