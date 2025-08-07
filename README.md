@@ -12,7 +12,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 155.0 kB Used in GitHub's Storage 
+> 📦 154.9 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -78,5 +78,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Asuka24601/Asuka24601/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2025 18:56:16 UTC
+ Last Updated on 07/08/2025 18:58:13 UTC
 <!--END_SECTION:waka-->
